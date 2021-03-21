@@ -1,0 +1,42 @@
+
+body{
+    font: 20px Bahnschrift SemiBold Condensed, sans-serif;
+}
+
+.navbar {
+    background-color: #BDBDBD;
+  
+    
+
+}
+
+
+.quem-somos{
+    background-color: white;
+    color: #bdbdbd;
+    font-weight: bolder;
+    
+}
+
+.margin{
+    padding-bottom: 50px;
+    padding-top:10px;
+
+}
+
+.parceiros{
+    background-color:#BDBDBD;
+    color:white;
+  
+}
+
+.serviços{
+    background-color: #0B2161;
+    color: white;
+}
+
+
+.bg-footer{
+    background-color: black;
+    color: white;
+}
